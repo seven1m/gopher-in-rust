@@ -1,6 +1,22 @@
 # Gopher client written in Rust
 
+(Name yet to be decided)
+
 This just reads and prints to the screen for now.
+
+## Building
+
+```
+cargo build
+```
+
+## Usage
+
+```
+target/debug/gopher-in-rust gopherpedia.com
+target/debug/gopher-in-rust gopherpedia.com/Cadmium
+target/debug/gopher-in-rust "gopherpedia.com/Demon Hunter"
+```
 
 ## To Do
 
