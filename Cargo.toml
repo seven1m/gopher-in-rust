@@ -1,0 +1,9 @@
+[package]
+name = "gopher-in-rust"
+version = "0.1.0"
+authors = ["Tim Morgan <tim@timmorgan.org>"]
+
+[dependencies]
+clap = "2.27.1"
+url = "1.6.0"
+regex = "0.2"
